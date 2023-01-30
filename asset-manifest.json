@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1227feb3.css",
-    "main.js": "/static/js/main.29ec1245.js",
-    "static/media/me-about.jpeg": "/static/media/me-about.b5b54343e9f33e02a449.jpeg",
-    "static/media/cv.pdf": "/static/media/cv.49cd52e0fc96148353e0.pdf",
-    "static/media/me-transparent.png": "/static/media/me-transparent.ddb14f028b2c2b5ddc85.png",
-    "static/media/football-no-lines.png": "/static/media/football-no-lines.af2e751b7224e4c5624b.png",
-    "index.html": "/index.html",
-    "main.1227feb3.css.map": "/static/css/main.1227feb3.css.map",
-    "main.29ec1245.js.map": "/static/js/main.29ec1245.js.map"
+    "main.css": "/react-portfolio-website/static/css/main.54fedead.css",
+    "main.js": "/react-portfolio-website/static/js/main.7e021c9a.js",
+    "static/media/me-about.jpeg": "/react-portfolio-website/static/media/me-about.b5b54343e9f33e02a449.jpeg",
+    "static/media/cv.pdf": "/react-portfolio-website/static/media/cv.49cd52e0fc96148353e0.pdf",
+    "static/media/me-transparent.png": "/react-portfolio-website/static/media/me-transparent.ddb14f028b2c2b5ddc85.png",
+    "static/media/football-no-lines.png": "/react-portfolio-website/static/media/football-no-lines.af2e751b7224e4c5624b.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.54fedead.css.map": "/react-portfolio-website/static/css/main.54fedead.css.map",
+    "main.7e021c9a.js.map": "/react-portfolio-website/static/js/main.7e021c9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1227feb3.css",
-    "static/js/main.29ec1245.js"
+    "static/css/main.54fedead.css",
+    "static/js/main.7e021c9a.js"
   ]
 }
