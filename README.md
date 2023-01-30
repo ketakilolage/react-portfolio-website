@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a sample one-page portfolio website for developers to showcase their skills and experiences.\
 Feel free to fork the repo and customize for yourself. You do not need to credit me but it's always nice to be appreciated!
 
+[Live Demo](https://ketakilolage.github.io/react-portfolio-website/)
+
 ### Instructions
 
 To deploy the app to GitHub pages as a Project Site:
